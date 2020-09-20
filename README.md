@@ -5,6 +5,9 @@ To run the application ;-
 
 `npm start`
 
+http://localhost:3000
+
+
 ## Available Scripts
 
 In the project directory, you can run:
