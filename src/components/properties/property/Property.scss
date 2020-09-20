@@ -1,0 +1,22 @@
+.zoom {
+    transition: transform .2s ease;
+    box-shadow: 0px -2px 6px -3px;
+    padding: 4px;
+}
+
+.zoom:hover {
+  box-shadow: 0px 0px 9px -1px;
+  transform: scale(1.02); 
+}
+
+.property-img{
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 200px;
+  border-radius: 2px;
+
+}
+.property-text{
+  font-size: 14px;
+   margin-top: 8px ;
+}
